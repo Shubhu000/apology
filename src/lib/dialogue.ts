@@ -8,7 +8,7 @@ export const APOLOGY_DIALOGUE: DialogueStep[] = [
   {
     id: 1,
     manMessage:
-      "Pini seriously boj guilty feel thatu che mane because me tue na padeli ne avelo. But e khali tane jova mate because mane toh tane jovanu bo man thay. Love ma hoi toh jovanu ne malvanu man thay j k ni tu j mane k.",
+      "I don't know k tu mane miss kare che k nai but I’m missing you like hell. Pini seriously boj guilty feel thatu che mane because me tue na padeli ne avelo. But e khali tane jova mate because mane toh tane jovanu bo man thay. Love ma hoi toh jovanu ne malvanu man thay j k ni tu j mane k.",
   },
   {
     id: 2,
