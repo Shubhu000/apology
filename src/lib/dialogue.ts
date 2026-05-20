@@ -18,7 +18,7 @@ export const APOLOGY_DIALOGUE: DialogueStep[] = [
   {
     id: 3,
     manMessage:
-      "Ek vastu notice kairi tue a lady character tu che with aqua blue hair pachad thi. Pini me sorry toh key ne su j karu, bus mare toh tane khus jovu che, mare tara mate better banvu che haji, je badhi vastu ma bhul karu chu ema bhul nathi karvi mare and agar tu vat kare and chance ape toh, because every time mane evu lage k me tane samji gayo but sometimes you are just unpredictable, Stoh mare ene predictable banavu che bus tara mate agar TU CHAHE TOH",
+      "Ek vastu notice kairi tue a lady character tu che with aqua blue hair pachad thi. Pini me sorry toh key ne su j karu, bus mare toh tane khus jovu che, mare tara mate better banvu che haji, je badhi vastu ma bhul karu chu ema bhul nathi karvi mare and agar tu vat kare and chance ape toh, because every time mane evu lage k me tane samji gayo but sometimes you are just unpredictable, toh mare ene predictable banavu che bus tara mate agar TU CHAHE TOH",
   },
 ];
 

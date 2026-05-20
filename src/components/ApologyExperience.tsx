@@ -31,10 +31,6 @@ function ApologyOverlay({
   const [displayedText, setDisplayedText] = useState("");
   const [sending, setSending] = useState(false);
 
-  const [lastResponse, setLastResponse] = useState<"accept" | "reject" | null>(
-    null,
-  );
-
   const [manTalkingUi, setManTalkingUi] = useState(false);
 
   // NEW INTRO STATES
@@ -157,8 +153,6 @@ function ApologyOverlay({
 
   const handleResponse = async (decision: "accept" | "reject") => {
     const label = decision === "accept" ? "Accept 💚" : "Reject 💔";
-
-    setLastResponse(decision);
 
     setShowResponse(false);
 
