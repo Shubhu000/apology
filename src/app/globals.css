@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --bg-deep: #0a0612;
+  --accent-pink: #ff6b9d;
+  --accent-purple: #c77dff;
+  --accent-gold: #ffd166;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background: var(--bg-deep);
+  color: #fff;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  background: radial-gradient(ellipse at 50% 0%, #2d1b4e 0%, var(--bg-deep) 55%);
+}
+
+::selection {
+  background: rgba(255, 107, 157, 0.4);
+}
